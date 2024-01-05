@@ -1,6 +1,6 @@
 # StrMixIRM
 ## Description
-This repository includes R code and Mplus syntax for fitting Structured Mixture Item Response Models (StrMixIRMs) mentioned in [Paper Citation] (https://www.overleaf.com/project/658a9aa57b56c4b85577cfe9).
+This repository includes R code and Mplus syntax for fitting Structured Mixture Item Response Models (StrMixIRMs) mentioned in [Paper Citation] ().
 
 At present, the resposity contains implementions of the following types of StrMixIRMs:
 * Unidimensional StrMixIRMs
