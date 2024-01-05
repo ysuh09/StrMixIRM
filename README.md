@@ -1,6 +1,6 @@
 # StrMixIRM
 ## Description
-This repository includes R code and Mplus syntax for fitting Structured Mixture Item Response Models (StrMixIRMs) mentioned in [Paper Citation] ().
+This repository includes R code and Mplus syntax for fitting Structured Mixture Item Response Models (StrMixIRMs) using the reparameterization mentioned in [Paper Citation: TBD]().
 
 At present, the resposity contains implementions of the following types of StrMixIRMs:
 * Unidimensional StrMixIRMs
@@ -23,8 +23,8 @@ For each type of of StrMixIRM above, the following measurement models are possib
 * [Citation](#citation)
 
 ## Data
-The ECPE dataset may be found either within this repository with the [ECPE folder]()  or [here](https://search.r-project.org/CRAN/refmans/GDINA/html/ecpe.html). 
-The Verbal Aggression dataset may be found either within this repository with the [Verbal Aggression folder]()  or [here](https://search.r-project.org/CRAN/refmans/GDINA/html/ecpe.html). 
+The ECPE dataset may be found either within this repository in the [ECPE folder]() or within the GDINA package as shown [here](https://search.r-project.org/CRAN/refmans/GDINA/html/ecpe.html). 
+The Verbal Aggression dataset may be found either within this repository in the [Verbal Aggression folder]() or in the lme4 package as shown [here](https://rdrr.io/cran/lme4/man/VerbAgg.html). 
 
 ## Installations 
 * Install [R](https://cran.r-project.org/bin/windows/base/)
@@ -41,16 +41,16 @@ in this repository are outside the scope of the capabilities of the demo version
   * [Data]()
   * [R_mirt]()
   * [Mplus]()
-      * StrMixIRT using linear constraints:
-      * StrMixMIRT using interaction effects:
-  * [Results]()
-* [Verbel Aggression]()
+      * StrMixIRT using [linear constraints]()
+      * StrMixMIRT using [interaction effects]()
+  * [Organized Results]()
+* [Verbal Aggression]()
   * [Data]()
   * [R_mirt]()
   * [Mplus]()
-      * StrMixIRT using linear constraints:
-      * StrMixMIRT using interaction effects:
-  * [Results]()
+      * StrMixIRT using [linear constraints]()
+      * StrMixMIRT using [interaction effects]()
+  * [Organized Results]()
   
 ## Contributing
 This is research code. Pull requests and issues are welcome and appreciated!
