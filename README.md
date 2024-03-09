@@ -1,6 +1,7 @@
 # StrMixIRM
 ## Description
-This repository includes R code and Mplus syntax for fitting Structured Mixture Item Response Models (StrMixIRMs) using the reparameterization mentioned in [Paper Citation: TBD]().
+This repository includes R code and Mplus syntax for fitting Structured Mixture Item Response Models (StrMixIRMs) using the reparameterization mentioned in 
+Lee, M., Suh, Y.S., & Jeon, M. (2024). Item Response Analysis of a Structured Mixture Item Response Model with mirt Package in R. _Psych_, 6(1), 812-835. (https://doi.org/10.3390/psych6010023)
 
 At present, the resposity contains implementions of the following types of StrMixIRMs:
 * Unidimensional StrMixIRMs
@@ -61,4 +62,4 @@ Please contact the authors below regarding questions pertaining to the code/synt
 * Yon Soo Suh: yon.soo.suh@nwea.org
 
 ## Citation
-TBD
+Lee, M., Suh, Y.S., & Jeon, M. (2024). Item Response Analysis of a Structured Mixture Item Response Model with mirt Package in R. _Psych_, 6(1), 812-835. 
